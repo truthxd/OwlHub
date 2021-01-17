@@ -1,0 +1,3 @@
+
+
+loadstring(game:HttpGet("https://github.com/truthxd/OwlHub-BackUp/raw/main/OwlhubMain.lua"))()
